@@ -503,13 +503,29 @@ body.dark-mode .btn-load-more:hover {
     font-size: 1.45rem;
     box-shadow: var(--shadow);
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: transform 0.3s ease, background 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
 }
 
 .socials a:hover {
-    transform: translateY(-4px) scale(1.05);
+    transform: translateY(-4px) scale(1.08);
+}
+
+.socials a.linkedin:hover {
+    background: #0a66c2;
+    color: #fff;
+    box-shadow: 0 10px 25px rgba(10, 102, 194, 0.35);
+}
+
+.socials a.instagram:hover {
+    background: linear-gradient(135deg, #f58529, #dd2a7b, #8134af, #515bd4);
+    color: #fff;
+    box-shadow: 0 10px 25px rgba(221, 42, 123, 0.35);
+}
+
+.socials a.email:hover {
     background: var(--primary);
     color: #fff;
+    box-shadow: 0 10px 25px rgba(0, 173, 181, 0.35);
 }
 
 footer {
