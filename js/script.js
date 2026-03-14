@@ -8,7 +8,7 @@ const translations = {
         aboutTag: "About",
         aboutTitle: "About Me",
         aboutText: `
-            I am Andréina Lopes, an architect graduated from Universidade Nove de Julho (Brazil) and currently pursuing an MBA in Project Management at USP/Esalq (Brazil). I am passionate about transforming ideas into functional and inspiring spaces, combining creativity, technical precision, and sensitivity in every detail.
+            I am Andreina Lopes, an architect graduated from Universidade Nove de Julho (Brazil) and currently pursuing an MBA in Project Management at USP/Esalq (Brazil). I am passionate about transforming ideas into functional and inspiring spaces, combining creativity, technical precision, and sensitivity in every detail.
             <p>During my experience at Arcos Dorados (McDonald’s), I worked on store layout development, ensuring functionality, brand identity, and compliance with design guidelines. I also collaborated in project management, schedule monitoring, and site visits to oversee renovations, gaining practical experience in coordination and execution.</p>
             <p>My academic background provided me with a solid foundation in architectural design, urban planning, environmental comfort, and 3D modeling, with proficiency in tools such as AutoCAD, Revit, SketchUp, and Lumion.</p>
         `,
@@ -47,7 +47,7 @@ const translations = {
         aboutTag: "Sobre",
         aboutTitle: "Sobre Mim",
         aboutText: `
-            Sou Andréina Lopes, arquiteta formada pela Universidade Nove de Julho (Brasil) e atualmente cursando MBA em Gestão de Projetos na USP/Esalq (Brasil). Sou apaixonada por transformar ideias em espaços funcionais e inspiradores, combinando criatividade, precisão técnica e sensibilidade em cada detalhe.
+            Sou Andreina Lopes, arquiteta formada pela Universidade Nove de Julho (Brasil) e atualmente cursando MBA em Gestão de Projetos na USP/Esalq (Brasil). Sou apaixonada por transformar ideias em espaços funcionais e inspiradores, combinando criatividade, precisão técnica e sensibilidade em cada detalhe.
             <p>Durante minha experiência na Arcos Dorados (McDonald’s), atuei no desenvolvimento de layouts de lojas, garantindo funcionalidade, identidade da marca e conformidade com diretrizes de design. Também colaborei na gestão de projetos, acompanhamento de cronogramas e visitas técnicas para obras e reformas.</p>
             <p>Minha formação acadêmica me proporcionou uma base sólida em projeto arquitetônico, urbanismo, conforto ambiental e modelagem 3D, com domínio de ferramentas como AutoCAD, Revit, SketchUp e Lumion.</p>
         `,
@@ -86,7 +86,7 @@ const translations = {
         aboutTag: "Sobre mí",
         aboutTitle: "Sobre Mí",
         aboutText: `
-            Soy Andréina Lopes, arquitecta graduada por la Universidade Nove de Julho (Brasil) y actualmente cursando un MBA en Gestión de Proyectos en USP/Esalq (Brasil). Me apasiona transformar ideas en espacios funcionales e inspiradores, combinando creatividad, precisión técnica y sensibilidad en cada detalle.
+            Soy Andreina Lopes, arquitecta graduada por la Universidade Nove de Julho (Brasil) y actualmente cursando un MBA en Gestión de Proyectos en USP/Esalq (Brasil). Me apasiona transformar ideas en espacios funcionales e inspiradores, combinando creatividad, precisión técnica y sensibilidad en cada detalle.
             <p>Durante mi experiencia en Arcos Dorados (McDonald’s), trabajé en el desarrollo de layouts de tiendas, garantizando funcionalidad, identidad de marca y cumplimiento de lineamientos de diseño. También colaboré en la gestión de proyectos, seguimiento de cronogramas y visitas técnicas de obra.</p>
             <p>Mi formación académica me proporcionó una base sólida en diseño arquitectónico, urbanismo, confort ambiental y modelado 3D, con dominio de herramientas como AutoCAD, Revit, SketchUp y Lumion.</p>
         `,
