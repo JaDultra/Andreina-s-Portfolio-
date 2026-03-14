@@ -5,6 +5,7 @@ const translations = {
         heroSub: "Explore my works and concepts",
         btnSeeProjects: "See Projects",
         btnContact: "Contact",
+        loadMoreProjects: "View more projects",
         aboutTag: "About",
         aboutTitle: "About Me",
         aboutText: `
@@ -42,6 +43,7 @@ const translations = {
         heroKicker: "Arquitetura & Interiores",
         heroTitle: "Bem-vindo ao meu Portfólio de Arquitetura",
         heroSub: "Explore meus trabalhos e conceitos",
+        loadMoreProjects: "Ver mais projetos",
         btnSeeProjects: "Ver Projetos",
         btnContact: "Contato",
         aboutTag: "Sobre",
@@ -82,6 +84,7 @@ const translations = {
         heroTitle: "Bienvenido a mi Portafolio de Arquitectura",
         heroSub: "Explora mis trabajos y conceptos",
         btnSeeProjects: "Ver Proyectos",
+        loadMoreProjects: "Ver más proyectos",
         btnContact: "Contacto",
         aboutTag: "Sobre mí",
         aboutTitle: "Sobre Mí",
@@ -291,6 +294,7 @@ function applyGlobalTexts(lang) {
     safeSet("hero-sub", t.heroSub);
     safeSet("btn-see-projects", t.btnSeeProjects);
     safeSet("btn-contact", t.btnContact);
+    safeSet("load-more-projects", t.loadMoreProjects);
 
     safeSet("about-tag", t.aboutTag);
     safeSet("about-title", t.aboutTitle);
