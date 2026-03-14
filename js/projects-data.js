@@ -532,3 +532,5 @@ const projectsData = [{
         }
     }
 ];
+
+projectsData.sort((a, b) => b.year - a.year);
